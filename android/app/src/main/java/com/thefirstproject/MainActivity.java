@@ -1,4 +1,4 @@
-package com.thefirstproject;
+package com.vub.thefirstproject;
 
 import com.facebook.react.ReactActivity;
 

@@ -1,6 +1,6 @@
-import { StyleSheet } from 'react-native'
+import {StyleSheet} from 'react-native';
 export default StyleSheet.create({
-    wapper: {
-        padding: 20,
-    }
-})
+  wapper: {
+    padding: 20,
+  },
+});

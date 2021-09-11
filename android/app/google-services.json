@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173164036010",
+    "project_id": "contacts-a80c8",
+    "storage_bucket": "contacts-a80c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173164036010:android:785e6aff9a6a1a6c4bb5d3",
+        "android_client_info": {
+          "package_name": "com.vub.thefirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173164036010-rou77791vjndnovbnef8ant95jkoem6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW9A1cppbSystLBbfObtD83r80dxZ0Qio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173164036010-rou77791vjndnovbnef8ant95jkoem6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
